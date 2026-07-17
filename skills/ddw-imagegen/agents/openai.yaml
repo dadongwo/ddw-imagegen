@@ -1,0 +1,6 @@
+interface:
+  display_name: "DDW Image Gen"
+  short_description: "Create or edit images naturally through DDW, end to end"
+  icon_small: "./assets/ddw-imagegen-small.svg"
+  icon_large: "./assets/ddw-imagegen.png"
+  default_prompt: "Use $ddw-imagegen to create or edit the requested image naturally, end to end. Use reasonable defaults, avoid unnecessary questions, and show the finished image."
